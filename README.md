@@ -1,4 +1,4 @@
-# Final Project on Causes of Death in the United States
+# Project-Leading-Causes-Of-Death
 
 Background: Scientists are constantly trying to find out what factors leads to death whether it be behavioral, environmental, or financial.
 
@@ -48,4 +48,5 @@ https://health.mo.gov/data/mica/CDP_MICA/AARate.html
 
 
 
-## (See Website for Dashboard/Visualizations & PowerPoint for more information)
+##(See Website for Dashboard/Visualizations & PowerPoint for more information)
+
