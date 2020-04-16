@@ -16,15 +16,7 @@ Tobacco Use %, Obesity %, Per Capita Income, Number of Deaths
 Pandas, Matplotlib, Tableau, Scikit-Learn, HTML, CSS, Bootstrap
 
 ## Trends Found: 
-None of the variables explored contribute alone to the number of deaths
-
-Most of the states per capita income for all years shows that although, income increases slightly. deaths are only slightly increasing 
-
-Relative to each state, obesity rates don’t change significantly per year
-
-Number of deaths nationally increase every year
-
-With More time: We considered adding dropdowns that enable the user to select and filter out the graphs as well as another js library. 
+The R2 of .56 indicates that the model explains about 56% of the variability of the data around the mean. The differences between states are significant and can cause outliers and contribute to the skewed results of the analysis. The mean scored error, which shows the averaged squared difference between the predicted and actual values was .39, close to the desired 0 range. Overall, the probabilities of a positive correlation between number of deaths and tobacco use, obesity rates, and per capita income combined are relatively low. These factors alone are not enough to cause a strong correlation. Increasing the amount of data with more variables would have improved the results of the predicted model.  
 
 # Sources:
 ## Leading Causes of Death:
@@ -38,5 +30,7 @@ With More time: We considered adding dropdowns that enable the user to select an
 
 ## Notes:
 ### Mortality and causal links to behavioral factors: https://www.cdc.gov/mmwr/preview/mmwrhtml/su6304a2.htm#tab3
+
+
 
 ## (See Website for Dashboard/Visualizations & PowerPoint for more information)
