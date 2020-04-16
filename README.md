@@ -18,6 +18,17 @@ Pandas, Matplotlib, Tableau, Scikit-Learn, HTML, CSS, Bootstrap
 ## Machine Learning Trends: 
 The R2 of .56 indicates that the model explains about 56% of the variability of the data around the mean. The differences between states are significant and can cause outliers and contribute to the skewed results of the analysis. The mean scored error, which shows the averaged squared difference between the predicted and actual values was .39, close to the desired 0 range. Overall, the probabilities of a positive correlation between number of deaths and tobacco use, obesity rates, and per capita income combined are relatively low. These factors alone are not enough to cause a strong correlation. Increasing the amount of data with more variables would have improved the results of the predicted model.  
 
+## Tableau Trends: 
+
+Consolidated Data: A map of the United States where each state is represented by a pie mark, each segment represents one year of historical data 2011-2016 and all information (total deaths, percentage of obesity, percentage of tobacco use, and per capita income) of that year is loaded into the tooltip.
+
+Us Regions: A map of the United States divided by region, in each one of them all the information related to the historical data is displayed 2011- 2016 (total of deaths, tobacco consumption percentage, obesity rate percentage and average per capita income).
+
+Variables correlation: These 3 graphics shows the correlations between the variables: Tobacco Consumption, Obesity Percentage, and Per Capita Consumption and amount of Deaths by year in the United States 2011- 2016.The obesity percentage and the number of deaths grows in the same direction, this means that variable has a positive correlation with the number of deaths of each year; in another hand, the correlation between the tobacco consumption and the number of deaths is negative because the amounts of deaths increase while the percentage of tobacco consumption decrease, the same behavior is occurring with the per capita income. Of all three variables, the only one that shows a positive correlation the obesity percentage.
+
+Top 10 States with higher amount of deaths: Top 10 states with a higher amount of deaths in the United States and top 10 of each variable: Tobacco Consumption, Obesity Percentage and 10 bottom states with Per Capita Income  2011- 2016.
+
+
 # Sources:
 ## Leading Causes of Death:
 ### https://www.cdc.gov/nchs/data-visualization/mortality-leading-causes/index_2.htm
