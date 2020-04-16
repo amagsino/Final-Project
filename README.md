@@ -28,7 +28,7 @@ With More time: We considered adding dropdowns that enable the user to select an
 
 # Sources:
 ## Leading Causes of Death:
-https://www.cdc.gov/nchs/data-visualization/mortality-leading-causes/index_2.htm
+### https://www.cdc.gov/nchs/data-visualization/mortality-leading-causes/index_2.htm
 
 ## Factors
 ### Tobacco Use: https://www.americashealthrankings.org/explore/annual/measure/Smoking/
@@ -37,6 +37,6 @@ https://www.cdc.gov/nchs/data-visualization/mortality-leading-causes/index_2.htm
 ### Personal Income by state: https://apps.bea.gov/itable/iTable.cfm?ReqID=70&step=1
 
 ## Notes:
-Mortality and causal links to behavioral factors: https://www.cdc.gov/mmwr/preview/mmwrhtml/su6304a2.htm#tab3
+### Mortality and causal links to behavioral factors: https://www.cdc.gov/mmwr/preview/mmwrhtml/su6304a2.htm#tab3
 
 ## (See Website for Dashboard/Visualizations & PowerPoint for more information)
