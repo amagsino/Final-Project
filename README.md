@@ -15,7 +15,7 @@ Tobacco Use %, Obesity %, Per Capita Income, Number of Deaths
 ## Tools Used:
 Pandas, Matplotlib, Tableau, Scikit-Learn, HTML, CSS, Bootstrap
 
-## Trends Found: 
+## Machine Learning Trends: 
 The R2 of .56 indicates that the model explains about 56% of the variability of the data around the mean. The differences between states are significant and can cause outliers and contribute to the skewed results of the analysis. The mean scored error, which shows the averaged squared difference between the predicted and actual values was .39, close to the desired 0 range. Overall, the probabilities of a positive correlation between number of deaths and tobacco use, obesity rates, and per capita income combined are relatively low. These factors alone are not enough to cause a strong correlation. Increasing the amount of data with more variables would have improved the results of the predicted model.  
 
 # Sources:
